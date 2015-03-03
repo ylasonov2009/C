@@ -1,0 +1,4 @@
+SECTIONS
+{
+	mySDRAM :> SDRAM
+}
