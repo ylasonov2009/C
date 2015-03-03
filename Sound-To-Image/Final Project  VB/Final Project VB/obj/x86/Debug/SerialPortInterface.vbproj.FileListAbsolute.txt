@@ -1,0 +1,44 @@
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.exe
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.pdb
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.xml
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.frmMain.resources
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.exe
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.xml
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.pdb
+C:\Users\dbailey2010\Desktop\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.exe
+C:\Users\dbailey2010\Desktop\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.xml
+C:\Users\dbailey2010\Desktop\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.pdb
+C:\Users\dbailey2010\Desktop\SerialPortInterface\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.exe
+C:\Users\dbailey2010\Desktop\SerialPortInterface\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.pdb
+C:\Users\dbailey2010\Desktop\SerialPortInterface\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.xml
+C:\Users\dbailey2010\Desktop\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dbailey2010\Desktop\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.frmMain.resources
+C:\Users\dbailey2010\Desktop\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.Resources.resources
+C:\Users\dbailey2010\Desktop\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dbailey2010\Desktop\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\ucomp\stufuf\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.exe
+U:\ucomp\stufuf\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.xml
+U:\ucomp\stufuf\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.pdb
+U:\ucomp\stufuf\SerialPortInterface\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.exe
+U:\ucomp\stufuf\SerialPortInterface\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.pdb
+U:\ucomp\stufuf\SerialPortInterface\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.xml
+U:\ucomp\stufuf\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\ucomp\stufuf\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.frmMain.resources
+U:\ucomp\stufuf\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.Resources.resources
+U:\ucomp\stufuf\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\ucomp\stufuf\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sara\Desktop\Final Project Files\Final Project Files\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.exe
+C:\Users\Sara\Desktop\Final Project Files\Final Project Files\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.xml
+C:\Users\Sara\Desktop\Final Project Files\Final Project Files\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.pdb
+C:\Users\Sara\Desktop\Final Project Files\Final Project Files\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.exe
+C:\Users\Sara\Desktop\Final Project Files\Final Project Files\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.pdb
+C:\Users\Sara\Desktop\Final Project Files\Final Project Files\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.xml
+C:\Users\Sara\Desktop\Final Project Files\Final Project Files\SerialPortInterface\SerialPortInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sara\Desktop\Final Project Files\Final Project Files\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.frmMain.resources
+C:\Users\Sara\Desktop\Final Project Files\Final Project Files\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.Resources.resources
+C:\Users\Sara\Desktop\Final Project Files\Final Project Files\SerialPortInterface\SerialPortInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sara\Desktop\Final Project Files\Final Project Files\SerialPortInterface\SerialPortInterface\obj\x86\Debug\GenerateResource.write.1.tlog

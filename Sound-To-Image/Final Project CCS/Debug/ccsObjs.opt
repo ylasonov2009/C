@@ -1,0 +1,1 @@
+-l"./audioSamplecfg.cmd" "./Source/uart.obj" "./Source/audioSample_main.obj" "./Source/audioSample_io.obj" "./audioSamplecfg_c.obj" "./audioSamplecfg.obj" "../build/audioSample_Debug.cmd" "../build/audioSample_Release.cmd" "../Source/myLink.cmd" 
